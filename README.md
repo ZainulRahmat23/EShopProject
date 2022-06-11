@@ -599,4 +599,4 @@ URL: {{host}}/order/confirm-order
 ---
 [Back to top](#shop)
 
->Generated at 2022-06-10 14:47:42 by [docgen](https://github.com/thedevsaddam/docgen)
+
